@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Atlantis1791sz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Atlantis1791
+- 👀 I’m interested in ... EVERYTHING...MUSICSINGERSMOVIESNEWSONGSNEWANDOLDMUSICANDBANDSANDMYFANZ
+
+- 🌱 I’m currently learning ..GITHUB.
+- 💞️ I’m looking to collaborate on ...MAKINGADIFFERENCEEVERYWHERELETSNETWORKAGAINANDBEPRODUCTIVE
+- 📫 How to reach me ...WORKINGONTHATONETRYHEREFORNOW
 
 <!---
 Atlantis1791sz/Atlantis1791sz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
